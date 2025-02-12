@@ -1,0 +1,41 @@
+/* * universal selecter */
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.One {
+    height: 500px;
+    width: 100%;
+    background-color: rgb(51, 50, 50);
+    display: flex;
+    align-items: center;
+    row-gap: 50px;
+    flex-wrap: wrap;
+    column-gap: 50px;
+}
+.child{
+    height: 100px;
+    width:150px;
+
+}
+.one{
+    background-color:red;
+}
+.two{
+    background-color: yellow;
+}
+.three{
+    background-color: blue;
+}
+
+
+/* body{
+    margin: 0px;
+} */
+
+
+
+
