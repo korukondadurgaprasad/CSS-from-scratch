@@ -1,41 +1,17 @@
-/* * universal selecter */
-*
-{
+* {
     margin: 0px;
     padding: 0px;
 }
 
+.one {
+    height: 400px;
+    width: 800px;
+    background-color: red;
+}
 
-.One {
-    height: 500px;
-    width: 100%;
-    background-color: rgb(51, 50, 50);
-    display: flex;
-    align-items: center;
-    row-gap: 50px;
-    flex-wrap: wrap;
-    column-gap: 50px;
-}
-.child{
-    height: 100px;
-    width:150px;
-
-}
-.one{
-    background-color:red;
-}
-.two{
-    background-color: yellow;
-}
-.three{
+.child {
+    height: 200px;
+    width: 50%;
     background-color: blue;
+
 }
-
-
-/* body{
-    margin: 0px;
-} */
-
-
-
-
