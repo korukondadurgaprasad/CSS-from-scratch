@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .one{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.two{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+} */
+
+.parent1{
+    border: 10px solid black;
+    height: 750px;
+    margin: 50px;
+    width:600px ;
+
+
+}
+
+
+.parent2{
+    border: 10px solid rgb(210, 21, 21);
+    height: 500px;
+    margin: 60px;
+    width:400px ;
+    position: relative;
+
+}
+
+.one{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+
+}
+
+.two{
+
+    height: 100px;
+    width: 100px;
+    background-color: rgb(227, 227, 19);
+    position: absolute;
+    top:0px;
+    left: 0px;
+
+}
+.three{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(12, 12, 16);
+
+}
