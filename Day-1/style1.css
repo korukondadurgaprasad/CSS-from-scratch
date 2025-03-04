@@ -15,5 +15,6 @@
     width: 300px;
     background-color: blue;
      /* display: inline; inline elements can never have height and width: ; */
+     
      display: inline-block;
 }  
